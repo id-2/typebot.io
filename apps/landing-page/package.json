@@ -39,7 +39,7 @@
     "next-runtime-env": "1.6.2",
     "@typebot.io/env": "workspace:*",
     "next-transpile-modules": "10.0.0",
-    "postcss": "8.4.26",
+    "postcss": "8.4.31",
     "prettier": "3.0.0",
     "typescript": "5.2.2"
   }
